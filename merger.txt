@@ -1,11 +1,14 @@
-abcd
 
-<<<<<<< HEAD
 from 1 sdsd
 nibir
-=======
-from 1 sdsd 
-kskdskd
->>>>>>> main
+
+dd
+
 
 sdsds
+
+
+second ta
+
+3rd ta
+
